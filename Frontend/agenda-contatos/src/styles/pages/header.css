@@ -1,0 +1,15 @@
+.header{
+  width: 100%;
+  padding: 15px 0;
+  background: #fec63e;
+}
+
+.header-text{
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 22px;
+  line-height: 20px;
+  padding: 10px 0;
+}

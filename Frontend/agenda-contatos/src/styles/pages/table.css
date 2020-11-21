@@ -1,0 +1,16 @@
+.btnTrash {
+  padding: 2px;
+  margin: 0;
+  background: none;
+  outline: none;
+  background: #ffffff;
+  border: none;
+}
+
+.btnEditar {
+  margin-left: 15px;
+}
+
+.fa-trash-o{
+  color: rgb(202, 6, 6);
+}
